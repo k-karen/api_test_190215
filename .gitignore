@@ -14,7 +14,7 @@
 !/tmp/.keep
 
 # Ignore uploaded files in development
-/storage/*
+/storarge/*
 !/storage/.keep
 
 .byebug_history
@@ -25,4 +25,4 @@
 /vendor/bundle/*
 /config/credentials.yml.enc
 /config/master.key
-.idea/*
+/.idea/*
