@@ -1,0 +1,2 @@
+class ApiTestTrashController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class ApiTestTrash < ApplicationRecord
+end
